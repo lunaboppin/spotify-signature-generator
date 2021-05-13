@@ -1,0 +1,9 @@
+{
+    "require": {
+        "jwilsson/spotify-web-api-php": "^3.4",
+        "intervention/image": "^2.5",
+        "illuminate/http": "^7.12",
+        "ramsey/uuid": "^4.0",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}
